@@ -183,9 +183,8 @@ body {
    }
    
    #box {
-	    display: inline-block;
-	    float: left;
-        width: 620px;
+       display: inline-block;
+       width: 620px;
     }
     
     .portfolio {
