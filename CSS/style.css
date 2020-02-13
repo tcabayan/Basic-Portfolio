@@ -65,7 +65,7 @@ body {
    
    .wrapper {
        background-color: pink;
-       padding: 30px;
+       padding: 20px;
        box-sizing: border-box;
        border-style: none;
        border-width: 3px;
@@ -176,7 +176,7 @@ body {
        .wrapper{
            margin: 25px auto 0;
        }
-       .top-form .inner-form{
+       .top-form .inner-form {
           width: 100%;
           margin: 5px;  
        }
